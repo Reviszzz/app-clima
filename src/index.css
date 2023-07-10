@@ -1,0 +1,8 @@
+* {
+  font-family: 'Noto Sans', sans-serif;
+  color: #fff;
+}
+:root {
+  background: url(img/fondo.avif) no-repeat center center fixed;
+  background-size: cover;
+}
